@@ -1,12 +1,6 @@
-## Hi there 👋
+<h1 align="center">TGP-Projects</h1>
 
-<!--
+Ola, *TGP-Projects* é uma organização criada para a criação de aplicativos para
+dispositivos **Android/Windows/Linux** e pra várias outras que possam suportar.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Os aplicativos criados aqui são construidos na intenção de ajudar a todos, sendo em seu cotidiano, ou uso normal.
